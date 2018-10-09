@@ -1,0 +1,214 @@
+*{margin:0;padding:0; }
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse {
+    transition: all 0.5s;
+}
+
+.collapse.navbar-collapse.navbar-ex1-collapse {
+}
+
+.biendoimenu a.n1, .biendoimenu a.n2, .biendoimenu a.n3 {
+    margin-top: -15px;
+    font-size: 16px;
+}
+
+.biendoimenu .fa.fa-play-circle.navbar-brand {
+    margin-top: -18px;
+}
+
+.biendoimenu a.navbar-brand.bootstrap {
+}
+
+.biendoimenu a.navbar-brand.start {
+    font-size: 14px;
+    margin-top: -20px;
+}
+
+.biendoimenu a.navbar-brand.bootstrap {
+    margin-top: -18px;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse.biendoimenu {
+    height: 60px;
+    background: black;
+    transition: all 0.5s;
+}
+
+.contact .btn.btn-default {
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 0%;
+    background: none;
+    color: #42dca3;
+    border: 1px solid;
+    text-transform: uppercase;
+}
+
+.contact h3 {
+    font-size: 20px;
+    color: #42dca3;
+}
+
+.contact h2 {
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.contact h1 {
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.contact {
+    background: black;
+    color: white;
+}
+
+.download .btn.btn-default {
+    margin-top: 40px;
+    font-size: 25px;
+    border-radius: 0%;
+    background: none;
+    color: #42dca3;
+    border: 2px solid;
+}
+
+.download h3 {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.download h1 {
+    padding-top: 60px;
+    font-size: 34px;
+}
+
+.download {
+    height: 400px;
+    background: url(img/downloads-bg.jpg);
+    color: white;
+}
+
+.about p {
+    font-size: 20px;
+}
+
+.about a {
+    color: #42dca3;
+    text-decoration: none;
+}
+
+.about h2 {
+    margin-top: 151px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.about {
+	font-family: 'Lora', serif;
+	background: black;
+	color: white;
+	border-top: none;
+	height: 600px;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse {
+    background: none;
+    border: none;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse {
+    text-transform: uppercase;
+}
+
+.grayscale span.fa.fa-angle-double-down.animated {
+    color: white;
+}
+
+.grayscale a.btn.btn-circle.page-scroll {
+    font-size: 45px;
+    width: 70px;
+    height: 70px;
+    border: 3px solid white;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+span.fa.fa-angle-double-down.animated {}
+
+.grayscale h3 {
+    color: white;
+}
+
+.grayscale h1 {
+    color: white;
+    font-size: 90px;
+    font-weight: 800;
+}
+
+.grayscale {
+    height: 650px;
+    width: 100%;
+    background: url(img/intro-bg.jpg) bottom center scroll no-repeat;
+    background-size: cover;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: gray;
+}
+
+a {
+    color: lightgray;
+}
+
+a.navbar-brand.start:hover {
+    color: gray;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse {
+}
+
+ul.nav.navbar-nav.navbar-right {
+    color: gray;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    color: white;
+    padding-top: 20px;
+    font-size: 22px;
+}
+
+.navbar-default a.navbar-brand.bootstrap {
+    padding-top: 37px;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.navbar-default a.navbar-brand.start {
+    padding-top: 40px;
+    color: white;
+}
+
+.navbar-default .fa.fa-play-circle.navbar-brand {
+    padding-top: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.navbar-inverse {
+    height: 105px;
+    color: white;
+}
+
+.grayscale {
+    padding-top: 140px;
+}
+ 
+
+ 
